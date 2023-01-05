@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with sK1/UniConvertor (http://sk1project.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="937.5"
+   height="937.5"
+   viewBox="0 0 750.00003 750"
+   id="svg5431"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="marca trigonometrica posgar.svg"
+   style="fill-rule:evenodd">
+  <metadata
+     id="metadata5443">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5441" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="727"
+     inkscape:window-height="480"
+     id="namedview5439"
+     showgrid="false"
+     units="pt"
+     inkscape:document-units="pt"
+     inkscape:zoom="0.22425732"
+     inkscape:cx="372.04749"
+     inkscape:cy="526.18127"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5431" />
+  <g
+     id="g5433"
+     transform="translate(0,-91.889992)"
+     style="fill:#000000;fill-opacity:1">
+    <g
+       id="g5435"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         style="fill:#000000;stroke:none;fill-opacity:1"
+         d="M 693.003,756.424 375,201.523 56.997,756.424 l 636.006,0 z m 41.241,23.899 -718.4885,0 L 375,153.457 734.244,780.323 z M 375,509.948 c 18.04,0 32.665,15.29 32.665,34.15 0,18.861 -14.625,34.15 -32.665,34.15 -18.04,0 -32.665,-15.289 -32.665,-34.15 0,-18.86 14.625,-34.15 32.665,-34.15 z"
+         id="path5437"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
