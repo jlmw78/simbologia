@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with sK1/UniConvertor (http://sk1project.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="937.5"
+   height="937.5"
+   viewBox="0 0 750.00003 750"
+   id="svg4097"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Edificio publicio.cdr"
+   style="fill-rule:evenodd">
+  <metadata
+     id="metadata4109">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4107" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview4105"
+     showgrid="false"
+     units="pt"
+     inkscape:document-units="pt"
+     inkscape:zoom="0.22425732"
+     inkscape:cx="372.04749"
+     inkscape:cy="526.18127"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4097" />
+  <g
+     id="g4099"
+     transform="translate(0,-91.889992)">
+    <g
+       id="g4101">
+      <path
+         style="fill:#2c2c2b;stroke:none"
+         d="m 156.473,291.682 346.552,0 0,84.431 90.501,0 0,190.935 82.775,0 0,22.073 -602.6031,0 0,-22.073 82.7751,0 0,-275.366 z m 13.796,275.366 105.4,0 0,-190.935 183.209,0 0,-70.635 -288.609,0 0,261.57 z m 332.756,-178.242 0,175.483 70.417,0 0,-175.483 -70.417,0 z m -207.271,0 163.124,0 0,175.483 -163.124,0 0,-175.483 z m -279.9988,231.218 718.4888,0 0,22.073 -718.4888,0 0,-22.073 z"
+         id="path4103"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

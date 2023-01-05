@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with sK1/UniConvertor (http://sk1project.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="937.5"
+   height="937.5"
+   viewBox="0 0 750.00003 750"
+   id="svg4027"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="campo deportivo.cdr"
+   style="fill-rule:evenodd">
+  <metadata
+     id="metadata4039">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4037" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview4035"
+     showgrid="false"
+     units="pt"
+     inkscape:document-units="pt"
+     inkscape:zoom="0.22425732"
+     inkscape:cx="372.04749"
+     inkscape:cy="526.18127"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4027" />
+  <g
+     id="g4029"
+     transform="translate(0,-91.889992)">
+    <g
+       id="g4031">
+      <path
+         style="fill:#2c2c2b;stroke:none"
+         d="m 227.016,105.411 295.968,0 c 47.197,0 85.812,38.615 85.812,85.813 l 0,551.332 c 0,47.197 -38.615,85.813 -85.812,85.813 l -295.968,0 c -47.198,0 -85.813,-38.616 -85.813,-85.813 l 0,-551.332 c 0,-47.198 38.615,-85.813 85.813,-85.813 z m 6.097,7.284 283.774,0 c 45.252,0 82.277,37.025 82.277,82.278 l 0,543.833 c 0,45.253 -37.025,82.278 -82.277,82.278 l -283.774,0 c -45.253,0 -82.278,-37.025 -82.278,-82.278 l 0,-543.833 c 0,-45.253 37.025,-82.278 82.278,-82.278 z m 49.328,71.086 185.118,0 c 29.52,0 53.673,30.243 53.673,67.208 l 0,431.801 c 0,36.965 -24.153,67.208 -53.673,67.208 l -185.118,0 c -29.521,0 -53.673,-30.243 -53.673,-67.208 l 0,-431.801 c 0,-36.965 24.152,-67.208 53.673,-67.208 z m 3.813,5.705 177.491,0 c 28.304,0 51.463,28.998 51.463,64.439 l 0,425.929 c 0,35.441 -23.159,64.439 -51.463,64.439 l -177.491,0 c -28.304,0 -51.462,-28.998 -51.462,-64.439 l 0,-425.929 c 0,-35.441 23.158,-64.439 51.462,-64.439 z m -51.462,270.091 280.416,0 0,14.701 -280.416,0 0,-14.701 z"
+         id="path4033"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
