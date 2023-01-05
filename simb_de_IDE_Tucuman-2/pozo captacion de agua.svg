@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with sK1/UniConvertor (http://sk1project.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="937.5"
+   height="937.5"
+   viewBox="0 0 750.00003 750"
+   id="svg3097"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="pozo captacion de agua.cdr"
+   style="fill-rule:evenodd">
+  <metadata
+     id="metadata3109">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3107" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3105"
+     showgrid="false"
+     units="pt"
+     inkscape:document-units="pt"
+     inkscape:zoom="0.22425732"
+     inkscape:cx="372.04749"
+     inkscape:cy="526.18127"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3097" />
+  <g
+     id="g3099"
+     transform="translate(0,-91.889992)">
+    <g
+       id="g3101">
+      <path
+         style="fill:#2c2c2b;stroke:none"
+         d="m 430.076,270.697 c 118.196,26.693 206.827,137.507 206.827,270.178 0,152.607 -117.259,276.32 -261.904,276.32 -144.645,0 -261.903,-123.713 -261.903,-276.32 0,-124.921 78.58,-230.462 186.429,-264.651 l 0,-159.639 130.551,0 0,154.112 z m -9.963,501.358 143.55,-357.981 c 22.16,36.624 35.007,80.129 35.007,126.801 0,114.025 -76.652,209.16 -178.557,231.18 z m 102.056,-408.873 -0.807,2.185 -1.23,0 -114.25,308.598 c -7.211,19.352 -13.482,37.795 -18.811,55.234 l -3.15,8.536 -144.71,-384.373 c 37.652,-30.396 84.717,-48.469 135.788,-48.469 56.356,0 107.839,21.997 147.17,58.289 z M 195.204,400.495 347.013,775.022 C 236.693,760.493 151.329,661.204 151.329,540.875 c 0,-52.585 16.307,-101.152 43.875,-140.38 z m 147.158,-236.993 44.877,0 0,93.833 -44.877,0 0,-93.833 z"
+         id="path3103"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

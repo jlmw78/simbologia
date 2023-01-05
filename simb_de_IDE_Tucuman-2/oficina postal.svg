@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with sK1/UniConvertor (http://sk1project.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="937.5"
+   height="937.5"
+   viewBox="0 0 750.00003 750"
+   id="svg4181"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="oficina postal.cdr"
+   style="fill-rule:evenodd">
+  <metadata
+     id="metadata4193">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4191" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview4189"
+     showgrid="false"
+     units="pt"
+     inkscape:document-units="pt"
+     inkscape:zoom="0.22425732"
+     inkscape:cx="372.04749"
+     inkscape:cy="526.18127"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4181" />
+  <g
+     id="g4183"
+     transform="translate(0,-91.889992)">
+    <g
+       id="g4185">
+      <path
+         style="fill:#2c2c2b;stroke:none"
+         d="m 45.9252,306.101 347.5308,0 0,131.974 73.45,0 C 483.689,344.161 581.327,270.081 704.075,258.697 l 0,28.994 c -114.354,12.339 -202.35,87.86 -202.35,179.199 0,91.339 87.996,166.86 202.35,179.199 l 0,28.994 C 579.225,663.503 480.354,587.064 466.115,490.864 l -72.659,0 0,127.575 -347.5308,0 0,-312.338 z"
+         id="path4187"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

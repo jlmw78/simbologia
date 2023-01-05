@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with sK1/UniConvertor (http://sk1project.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="937.5"
+   height="937.5"
+   viewBox="0 0 750.00002 750"
+   id="svg4017"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="numeracion_vial_nacional.cdr"
+   style="fill-rule:evenodd">
+  <metadata
+     id="metadata4031">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4029" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview4027"
+     showgrid="false"
+     units="pt"
+     inkscape:document-units="pt"
+     inkscape:zoom="0.22425732"
+     inkscape:cx="372.04749"
+     inkscape:cy="526.18127"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4017" />
+  <g
+     id="g4019"
+     transform="translate(0,-91.889989)">
+    <g
+       id="g4021">
+      <path
+         style="fill:#ffffff;stroke:#2c2c2b;stroke-width:0"
+         d="m 41.3856,193.102 677.3604,0 0.004,391.206 -338.682,150.524 -338.6824,-150.524 0,-391.206 z"
+         id="path4023"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#2c2c2b;stroke:#2c2c2b;stroke-width:0"
+         d="m 46.8816,210.313 656.2324,0 0.004,364.574 L 375,720.718 46.8816,574.887 l 0,-364.574 z m -29.1639,-29.164 714.5603,0 0.004,412.691 L 375,752.631 17.7177,593.84 l 0,-412.691 z"
+         id="path4025"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
